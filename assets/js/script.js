@@ -202,6 +202,7 @@ var taskStatusChangeHandler = function(event) {
 };
 
 
+
 formEl.addEventListener("submit", taskFormHandler);
 
 pageContentEl.addEventListener("click", taskButtonHandler);
